@@ -1,0 +1,11 @@
+dysmelius.LabelWhite
+dysmelius.ListPanel
+dysmelius.NewTextArea
+dysmelius.NewFrame
+dysmelius.LabelBlack
+dysmelius.MenuPanel
+dysmelius.PrizePanel
+dysmelius.NewLabel
+dysmelius.Extends
+dysmelius.LevelPanel
+dysmelius.NewButton
